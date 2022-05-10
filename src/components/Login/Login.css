@@ -42,6 +42,7 @@
   font-weight: 400;
   font-size: 21px;
   cursor: pointer;
+  margin-bottom: 20px;
 }
 .from-submit:hover {
   background: rgba(255, 153, 0, 0.5);
